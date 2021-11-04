@@ -19,9 +19,9 @@ Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael 
 
 ## Tasks to replicate:
 
-The Recognizing Textual Entailment
-Sentence Acceptability Judgement
-Sentiment Analysis
-The Semantic Textual Similarity
+-   The Recognizing Textual Entailment
+-   Sentence Acceptability Judgement
+-   Sentiment Analysis
+-   The Semantic Textual Similarity
 
 
